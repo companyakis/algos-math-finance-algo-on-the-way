@@ -4,4 +4,8 @@ np_ages = np.array(ages)
 
 age_search = (np_ages > 20) & (np_ages < 50)
 
-print(np_ages[age_search])
+print(np_ages[age_search]) 
+
+# [22 44 21 24 45 34]
+
+
