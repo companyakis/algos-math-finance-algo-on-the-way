@@ -1,2 +1,1 @@
-# algo-trade-on-the-way
-Algorithmic Trading
+Math, Financial Math, Algorithmic Trading
