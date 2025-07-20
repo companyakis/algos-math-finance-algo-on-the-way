@@ -7,5 +7,8 @@ try:
     
 except ValueError:
     
-    print("Zero division error! Divisor can't be zero...")
+    print("Please, use format => (number a) / (number b)... a and b must be numbers!")
 
+except ZeroDivisionError:
+    
+    print("Divisor  can't be zero...")
