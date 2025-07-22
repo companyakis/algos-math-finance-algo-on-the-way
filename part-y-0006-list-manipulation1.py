@@ -7,3 +7,6 @@ adults = [age for age in ages if age >= 18]
 print(childs)
 
 print(adults)
+
+# [17, 16, 12, 14, 8]
+# [55, 47, 95, 78, 65, 54, 21, 44, 100]
