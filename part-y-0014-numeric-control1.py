@@ -6,7 +6,7 @@ print(isinstance(x, numbers.Number))
 
 y = 12 + 5j
 
-print(isinstance(x, numbers.Complex))
+print(isinstance(y, numbers.Complex))
 
 # True
 # True
