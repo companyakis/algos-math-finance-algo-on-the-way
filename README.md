@@ -1,1 +1,1 @@
-Alos, Math, Financial Math, Algorithmic Trading
+Math, Statistics, Probability, Financial Math
